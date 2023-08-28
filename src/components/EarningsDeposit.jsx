@@ -248,7 +248,7 @@ function EarningsDeposit({
             fontWeight={400}
             color="#8AFFF7"
           >
-            {available ? ((available * 135) / 100).toFixed(4) : "0.00"}
+            {available ? ((available * 175) / 100).toFixed(4) : "0.00"}
           </Box>
         </Box>
 
